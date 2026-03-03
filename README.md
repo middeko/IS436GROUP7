@@ -1,4 +1,4 @@
-# Billiards Project
+# Billiards Match Recording System
 
 ## Team Members
 Stephen Borkowicz   
