@@ -14,4 +14,5 @@ Create a website that will host recorded videos of billiard matches from a bar o
 
 ## Submission Links
 
-Repository: https://github.com/middeko/IS436GROUP7   
+GitHub Repository: https://github.com/middeko/IS436GROUP7   
+GitHub Project Board: https://github.com/users/middeko/projects/1   
